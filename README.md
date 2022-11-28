@@ -10,7 +10,7 @@ The resulting [BAER dataset is available here](https://github.com/altsoph/BAER).
 
 ## Benchmarking
 
-An XLM-Roberta based language model fine-tuned for AER (Actionable Entities Recognition) -- recognition of entities that protagonists could interact with for further plot development.
+We also trained an XLM-Roberta based language model fine-tuned for AER (Actionable Entities Recognition) -- recognition of entities that protagonists could interact with for further plot development.
 
 ## Example
 
