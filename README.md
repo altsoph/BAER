@@ -47,3 +47,4 @@ If you use the model, please cite the following:
 ## NILLI Workshop materials
 
 * [Poster](https://github.com/altsoph/BAER/blob/main/AERBIF_poster_A0_v4.pdf)
+* [Slides](https://github.com/altsoph/BAER/blob/main/NILLI%20AER_v2.pdf)
